@@ -11,3 +11,7 @@
 def say_hello():
     print('Hello Dami')
 ```
+
+- [ ] Learn Typescript
+- [ ] Sharpen your django, react, next.js,laravel skills
+- [ ] Get a high-paying job 

@@ -6,3 +6,8 @@
 ##### Heading 6
 
 ![A furious-looking Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+def say_hello():
+    print('Hello Dami')
+```
